@@ -1,0 +1,5 @@
+eks_cluster_name = "eks-cluster"
+node_group_name = "eks-ng"
+nodes_sg_name = "eks-nodes-sg"
+cluster_sg_name = "eks-cluster-sg"
+profile = "blabla"
